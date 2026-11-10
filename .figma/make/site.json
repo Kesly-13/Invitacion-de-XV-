@@ -1,0 +1,10 @@
+{
+  "description": "Invitación digital interactiva para los quince años de Verónica Ospina Ruiz, con música, cuenta regresiva, detalles del evento y ubicación en Google Maps.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
